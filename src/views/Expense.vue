@@ -29,7 +29,7 @@
             </form>
         </div>
         <div class="footer">
-            <p>FarmSpace Media &copy 2021</p>
+            <p>FarmSpace Media &copy; 2021</p>
         </div>
     </div>
    </div> 
